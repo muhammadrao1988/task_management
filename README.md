@@ -11,4 +11,4 @@ php artisan migrate:refresh --seed
 - Run Server
 php artisan serve
 
-## Note: to test this system you will have to register your self.
+## Note: To test this system, first create account in application then you will be applicable to manage your task.
